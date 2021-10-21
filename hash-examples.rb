@@ -6,6 +6,7 @@ car = {
   'color' =>
 }
 
+
 dog = {
   'is_k9' => true
   'likes_bacon' => true
@@ -13,11 +14,11 @@ dog = {
   'likes_pets' => true
   'name' => "Oakley"
   'age' => 5
-
 }
+
 
 customer = {
   'has_money' => true
   'is_interested' => true
-  
+
 }
